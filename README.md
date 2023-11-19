@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tev</h1>
 <h3 align="center">A Passionate Cybersecurity Student!</h3>
-<img alight="right" align="right" wdith="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img alight="right" align="right" wdith="200" hegiht="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning CTF's and Cybersecurity! **Forensics, OSINT, WAP, Binary Exploitation & More!**
 
