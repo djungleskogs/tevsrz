@@ -4,7 +4,7 @@
 
 - 🌱 Life is all about Cybersecurity! **Forensics, OSINT, WAP, Binary Exploitation & More!**
 - 🚩 Playing all sorts of CTF every chance I get!
-- 📫 Reach me at **tevelshorz@gmail.com**
+- 📫 Reach me - **tevelshorz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
