@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Cybersecurity Student!</h3>
 <img alight="right" align="right" width="400" src="https://idejupr.lt/img/351692.gif">
 
-- 🌱 Life is all about Cybersecurity! **Forensics, OSINT, WAP, Binary Exploitation & More!**
+- 🌱 Life is all about Cybersecurity! **Forensics, OSINT, WAPT, Binary Exploitation & More!**
 - 🚩 Playing all sorts of CTF every chance I get!
 - 📫 Reach me - **tevelshorz@gmail.com**
 
